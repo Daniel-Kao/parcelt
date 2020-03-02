@@ -6,7 +6,7 @@
 
 ## 开发
 
-开发默认端口为 1234，访问路径未http://localhost:1234/demo/index.html
+开发默认端口为 1234，访问路径http://localhost:1234/demo/index.html
 
 开发目录未 src，开发时须严格按照以下形式编写
 
