@@ -20,4 +20,10 @@
 
 > > > images
 
-env.development、env.test、 env.production 分别对应开发、测试、生产环境
+## 开发入口位于
+
+parcel.dev.js，可根据需求配置，如修改跨域代理
+
+## 环境
+
+env.development、env.test、 env.production 分别对应开发、测试、生产环境，变量形为 NAME='吃了葡萄不吐葡萄皮' -> process.env.NAME='吃了葡萄不吐葡萄皮'
