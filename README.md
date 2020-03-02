@@ -20,4 +20,4 @@
 
 > > > images
 
-env.development、env.test env.production 分别对应开发、测试、生产环境
+env.development、env.test、 env.production 分别对应开发、测试、生产环境
